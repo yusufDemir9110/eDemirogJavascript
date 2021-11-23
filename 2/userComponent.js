@@ -20,6 +20,13 @@ console.log(userService.list())
 console.log(userService.getById(2))
 //kullanicilari id ye gore getirdik
 
+console.log('--------------')
+userService.load()
+console.log(userService.customers)
+console.log(userService.employees)
+console.log(userService.errors)
+
+console.log('--------------')
 
 //EK BILGI
 //prototyping yani sonradan deger ekleme
