@@ -9,11 +9,20 @@ export const usersData = [
         type:"customer"
     },
     {
+        id:8,
+        firstName:"kazim",
+        lastName:"kozalak",
+        city:"grave",
+        age:31,
+        creditCardNumber:"123456",
+        type:"customer"
+    },
+    {
         id:2,
         firstName:"yavuz",
         lastName:"demir",
         city:"grave",
-        age:2,
+        age:"asf2a",
         creditCardNumber:"654321",
         type:"customer"
 
